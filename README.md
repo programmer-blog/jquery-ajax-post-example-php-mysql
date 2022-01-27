@@ -6,7 +6,7 @@ In this tutorial, you will learn about jQuery Ajax POST method example with PHP 
 
 Following tasks are performed in this tutorial.
 
-1. Create a file postdata.php inside ajaxjquery directory.
+1. Create a file saverecords_ajax.php inside ajaxjquery directory.
 
 2. Add HTML code that will display form fields with a button.
 
